@@ -1,4 +1,4 @@
-## Aurora-AI-Agent-Gemini
+# Aurora-AI-Agent-Gemini
 A lightweight AI-powered assistant built with Python and Streamlit, supporting real-time response streaming. Integrates LLMs like Gemini for intelligent task handling, conversational flow, and interactive user experience. Ideal for personal productivity and experimentation.
 # 🧠 AI Agentic Assistant (Gemini 2.5 Pro + Streamlit)
 This project is a web-based intelligent assistant powered by Google’s Gemini 2.5 Pro model. It leverages LangChain’s agentic capabilities to enable a responsive and interactive experience for end users. Designed for experimentation, this assistant can carry out conversational tasks, respond intelligently to inputs, and stream responses in real time through a user-friendly web interface built with Streamlit.
@@ -15,4 +15,4 @@ We plan to extend the assistant with memory support for context-aware responses,
 
 The project currently uses Google Generative AI’s Gemini 2.5 Pro model. The API key must be obtained from Google AI Studio, and the model name in use is "models/gemini-2.5-pro". This ensures users get access to one of the most capable language models available publicly.
 
-Overall, this assistant serves as a foundation for building smarter, more extensible AI-driven applications. Whether for personal productivity, educational use, or as a chatbot base, the modular structure allows for easy enhancements and experimentation. The entire project is free to use and modify for educational or research purposes
+Overall, this assistant serves as a foundation for building smarter, more extensible AI-driven applications. Whether for personal productivity, educational use, or as a chatbot base, the modular structure allows for easy enhancements and experimentation. The entire project is flexible and open to further enhancements.
